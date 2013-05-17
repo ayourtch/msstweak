@@ -1,0 +1,11 @@
+On the systems where it works, this little hack allows to quickly change
+the MSS value for the TCP connections - allowing easier debugging of the MTU
+blackholes. Or so I'd hope.
+
+Any feedback welcome.
+
+Have fun!
+
+andrew <ayourtch at gmail with a dot and then com>
+
+
